@@ -1,4 +1,4 @@
-## Co-Founding a Non-Profit
+# Co-Founding a Non-Profit
 
 In March of 2020, I co-founded Youth Voices of Ontario (YVO) with two of my highschool friends. We started this organization as an outlet to advocate for high school students’ rights in this province. YVO is centered around three pillars: promotion of transparency in the Ontarian education system, advocacy for student mental health and wellness, and amplifying the student voice. Since its conception, I’ve worn many different hats in the organization but they all existed within the creative/design/technology area. At the outset, my aim was to establish visual identity, web presence, and a general team for the organization. As the team grew, I led social media initiatives, content creation and the management of the accounts. Thanks to a $750 grant from the TakingITGlobal program, we had the funds to incorporate federally as a non-profit. It made us feel “official” and like our efforts were recognized by adults and people outside of our team.
 

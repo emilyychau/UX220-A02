@@ -1,4 +1,4 @@
-## Being a Bobarista
+# Being a Bobarista
 
 Between my high school graduation (June 2021) and my first year here at Laurier (September 2022), I took a year to gain some work experience, save up some money, and most importantly, take a break from being in any type of school setting. 
 

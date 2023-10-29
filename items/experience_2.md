@@ -1,4 +1,4 @@
-## Being a President's Gold Scholar
+# Being a President's Gold Scholar
 
 I’ve always been a high achiever when it comes to academics, both in high school and now in university. I realized I qualified for this scholar status when I received my letter of acceptance for Laurier, they included a short line in the letter that informed me. I completed my Grade 12 year classes with an average of my top 6 classes that exceeded 95%, and therefore I would receive this scholar status and a $4000 scholarship in my first year. If I meet the renewal requirements in upper years, I will also continue to receive the scholarship until I graduate. The scholarship really helps to offset the cost of living plus tuition. I am really thankful that I do not need to stress about my finances and work a part-time job while I am studying. It helps to keep me accountable and motivated in my studies, as I know of the consequences in my learning and financially, and therefore want to keep up its renewal.
 

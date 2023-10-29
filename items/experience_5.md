@@ -1,4 +1,4 @@
-## Learning to Play Ukulele
+# Learning to Play Ukulele
 
 I learned how to play the ukulele many years ago. If I remember correctly, it was because my favourite musical artist at the time was Twenty Øne Piløts, and their songs often featured the ukulele. This inspired my learning process which spread itself out through the latter years of elementary school, I’d estimate from Grade 6 to about Grade 8. 
 

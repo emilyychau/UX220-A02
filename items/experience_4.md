@@ -1,4 +1,4 @@
-## Saving the Yearbook Council
+# Saving the Yearbook Council
 
 In my senior year of high school, I co-revived the yearbook council with two of my friends. The incoming student-president and organizer of the 2020-2021 yearbook council backed out and did not find a replacement, nor inform the school about that fact. In late 2020, when word spread that a yearbook wouldn’t be published, my friends and I stepped forward and took the initiative. None of us had prior experience on the yearbook council, nor with any student publications but we wanted to push forward. The yearbook would be a record of my high school experience, not just for myself but also the other graduating students who would miss out on other typical senior-year experiences like prom and our graduation ceremony–because of COVID-19 public health restrictions. With only 5 months and a small classroom-sized group of high schoolers, we put it together into a record-breaking year book! It was the first ever free and digitally available yearbook to students at my high school. We later learned that it also had the longest page count for a yearbook in the high school’s history.
  
