@@ -16,6 +16,14 @@
         h1{font-family: var(--font-title); text-align: center;}
         body{background-color: var(--main-background); foreground-color: var(--main-foreground); font-family: var(--font-body);}
         .footer{font-family: var(--font-body);}
+        .col-left {
+  float: left;
+  width: 50%;
+}
+.col-right {
+  float: right;
+  width: 50%;
+}
     </style>
 </head>
 <body>
@@ -46,10 +54,10 @@
         <x-markdown2html src="items/experience_3.md" id="section_3"></x-markdown2html>
         <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html>
         <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html>
-        <div class="row-left">
+        <div class="col-left">
         <x-markdown2html src="contact.md" id="contact"></x-markdown2html>
     </div>
-    <div class="row-right"><x-markdown2html src="about.md" id="about"></x-markdown2html></div>    
+    <div class="col-right"><x-markdown2html src="about.md" id="about"></x-markdown2html></div>    
     </main>
     <footer>
         <p>Emily Chau &copy; 2023</p>
