@@ -1,1 +1,9 @@
-Experience 5 here.
+## Learning to Play Ukulele
+
+I learned how to play the ukulele many years ago. If I remember correctly, it was because my favourite musical artist at the time was Twenty Øne Piløts, and their songs often featured the ukulele. This inspired my learning process which spread itself out through the latter years of elementary school, I’d estimate from Grade 6 to about Grade 8. 
+
+Once I got more proficient at playing, I really liked the ability to search up a song on Ultimate Guitar, and play it more or less after hearing the song a few times and skimming through the chords. The satisfaction of being able to replicate or imitate the melody, riffs, and or solos got me hooked and kept me playing this instrument. I was always discovering more songs that I liked which also had chords and tabs available on the internet, thanks to my music taste featuring quasi-famous enough artists.
+
+My favourite memory about this was the realization that being able to play the soprano ukulele meant that I could also play the baritone ukulele, and once I entered high school I started to transfer my skills and knowledge to learning how to play the electric guitar and the electric bass. I wouldn’t say that I didn’t enjoy any part of having to learn the ukulele, but just facing the basic trials and tribulations of having to learn. I disliked the more unglamorous parts of the learning experience; facing the moments of my ukulele playing sounding bad and failing at the correct finger placement to play a chord, just to list a few examples. I’d be lying if I said that I enjoyed facing this rather steep learning curve.
+
+Overall, I’d give my experience of learning to play the ukulele a letter grade of C. It was generally an okay experience, but I had moments of frustration and sadly encountered the issue of not having the spare time to practice–which really dampened my learning.
