@@ -1,1 +1,9 @@
-Experience 1 here
+## Being a Bobarista
+
+Between my high school graduation (June 2021) and my first year here at Laurier (September 2022), I took a year to gain some work experience, save up some money, and most importantly, take a break from being in any type of school setting. 
+
+I worked at a bubble tea store, CoCo Fresh Juice and Tea, for a full year. My co-workers were all really great people and I looked forward to my shifts because I was able to see them while also drinking free bubble tea. The level of freedom I had initially shocked me, especially compared to what my-high school-self would have been able to do. I was in total control of when my shifts were scheduled and how many hours I worked per week. As I was promoted to Shift Manager and then a member of Store Management, my choice of tasks opened up; I could be doing kitchen prep work, counting stock, training new employees, working cashier or making the drinks. This possibility of choice and autonomy over what tasks I did during my working hours was another great part of the job. 
+
+My favourite part of the job was interacting with regular customers because they were all so nice people and generally, they also tipped well. It was always great to see them and put a smile on their face because we already knew their order (and could prepare it extra fast) or we were ready to offer suggestions based on their preferences.
+
+Like any food service jobs, there were customer interactions that really made me hate my job sometimes. I’m talking about rude and entitled customers, especially the scammers. This is actually disregarding the two times I had to call 911 because of customer interactions/actions, those situations were more ‘stand-out’ and give me interesting stories to tell. Overall, I’d give my gap year experience a letter grade of B. It was for the most part enjoyable, but there were definitely some rough and less desirable moments.
