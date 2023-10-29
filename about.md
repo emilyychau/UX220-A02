@@ -1,5 +1,4 @@
 ---
-
 ## About Me
 Emily, aka EC (she/they)\
 – 2nd year uxd student @ laurier\
