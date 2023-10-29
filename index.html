@@ -11,11 +11,11 @@
             --main-foreground: rgb(228, 240, 250);
             --pane-padding: 5px 42px;
             padding-left, padding-right: 25px;
-            font-family: 'Hammersmith One', 'sans-serif';
-            font-family: ''}
-        h1{text-align: center;}
-        body{background-color: var(--main-background); foreground-color: var(--main-foreground);}
-
+            --font-title: 'Hammersmith One', 'sans-serif';
+            --font-body: 'Open Sans', 'sans-serif';}
+        h1{font-family: var(--font-title); text-align: center;}
+        body{background-color: var(--main-background); foreground-color: var(--main-foreground); font-family: var(--font-body);}
+        .footer{font-family: var(--font-body);}
     </style>
 </head>
 <body>
