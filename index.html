@@ -19,7 +19,7 @@
         h1{font-family: var(--font-title); text-align: center;}
         body{background-color: var(--main-background); foreground-color: var(--main-foreground); font-family: var(--font-body); padding-left, padding-right: 25px;}
         main{padding-left: 25px; padding-right: 25px;}
-        footer{font-family: var(--font-body); background-color: var(--footer-bg);}
+        .footer{font-family: var(--font-body); background-color: var(--footer-bg); text-align: center;}
         .col-left {float: left; width: 50%;}
         .col-right {float: right; width: 50%;}
     </style>
@@ -52,9 +52,7 @@
         <x-markdown2html src="items/experience_3.md" id="section_3"></x-markdown2html>
         <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html>
         <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html>
-        <div class="col-left">
-            <x-markdown2html src="about.md" id="about">
-    </div>
+    <div class="col-left"><x-markdown2html src="about.md" id="about"></div>
     <div class="col-right"><x-markdown2html src="contact.md" id="contact"></x-markdown2html></x-markdown2html></div>    
     </main>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
@@ -62,8 +60,10 @@
         integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
         crossorigin="anonymous"></script>
     <script src="https://custom-element.pages.dev/custom-element.js" crossorigin="anonymous"></script>
-    <footer>
-        <p>Emily Chau &copy; 2023</p>
-    </footer>
 </body>
+<footer>
+    <p>Emily Chau &copy; 2023</p>
+    <p>designed with ♡ on treaty 4 & treaty 14 land</p>
+<p>I want to acknowledge the privilege I have to live and study on the territories traditionally occupied and cared for by Indigenous Peoples across Turtle Island. Laurier's campuses are located on the traditional territories of the Anishinabeg, Haudenosaunee and Attawandaron peoples. I am deeply grateful for the opportunity that I have to learn and grow on this land, which continues to be cared for by the First Peoples of Canada.</p>
+</footer>
 </html>
