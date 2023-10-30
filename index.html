@@ -20,8 +20,8 @@
         h1{font-family: var(--font-title); text-align: center;}
         body{background-color: var(--main-background); foreground-color: var(--main-foreground); font-family: var(--font-body); padding-left, padding-right: 25px;}
         main{padding-left: 25px; padding-right: 25px}
-        .col-left {float: left; width: 45%; padding: 20px;}
-        .col-right {float: right; width: 45%; padding: 20px;}
+        .col-left {float: left; width: 45%; padding-left, padding-right: 20px; padding-bottom: 50px;}
+        .col-right {float: right; width: 45%; padding-left, padding-right: 20px; padding-bottom: 50px;}
         footer{font-family: var(--font-body); background-color: var(--footer-bg); text-align: center; padding: var(--padding-head);}
     </style>
 </head>
@@ -59,8 +59,9 @@
         crossorigin="anonymous"></script>
     <script src="https://custom-element.pages.dev/custom-element.js" crossorigin="anonymous"></script>
     <div class="col-left"><x-markdown2html src="about.md" id="about"></div>
-        <div class="col-right"><x-markdown2html src="contact.md" id="contact"></div>    
+        <div class="col-right"><x-markdown2html src="contact.md" id="contact"></div>  
+
     </main>
-<Footer><x-markdown2html src="footer.md" id="footer"></x-markdown2html></Footer>
+<Footer><br><x-markdown2html src="footer.md" id="footer"></x-markdown2html></Footer>
 </body>
 </html>
