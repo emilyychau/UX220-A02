@@ -15,14 +15,14 @@
             --font-title: 'Hammersmith One', 'sans-serif';
             --font-body: 'Open Sans', 'sans-serif';
             --padding-borders: 25px;
-            --padding-head: 40px;}
+            --padding-head: 200px;}
         nav{font-family: var(--font-body); background-color: var(--footer-bg);}
         h1{font-family: var(--font-title); text-align: center;}
         body{background-color: var(--main-background); foreground-color: var(--main-foreground); font-family: var(--font-body); padding-left, padding-right: 25px;}
         main{padding-left: 25px; padding-right: 25px}
         .col-left {float: left; width: 45%; padding-left, padding-right: 20px; padding-bottom: 50px;}
         .col-right {float: right; width: 45%; padding-left, padding-right: 20px; padding-bottom: 50px;}
-        footer{font-family: var(--font-body); background-color: var(--footer-bg); text-align: center; padding: var(--padding-head);}
+        footer{font-family: var(--font-body); background-color: var(--footer-bg); padding: var(--padding-head);}
     </style>
 </head>
 <body>
@@ -60,8 +60,7 @@
     <script src="https://custom-element.pages.dev/custom-element.js" crossorigin="anonymous"></script>
     <div class="col-left"><x-markdown2html src="about.md" id="about"></div>
         <div class="col-right"><x-markdown2html src="contact.md" id="contact"></div>  
-
     </main>
-<Footer><br><x-markdown2html src="footer.md" id="footer"></x-markdown2html></Footer>
+<Footer><x-markdown2html src="footer.md" id="footer"></x-markdown2html></Footer>
 </body>
 </html>
