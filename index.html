@@ -9,6 +9,7 @@
         :root{ 
             --main-background: #C2B2B4;
             --main-foreground: rgb(228, 240, 250);
+            --footer-bg: #3A4454;
             --pane-padding: 5px 42px;
             --font-title: 'Hammersmith One', 'sans-serif';
             --font-body: 'Open Sans', 'sans-serif';
@@ -18,10 +19,14 @@
         h1{font-family: var(--font-title); text-align: center;}
         body{background-color: var(--main-background); foreground-color: var(--main-foreground); font-family: var(--font-body); padding-left, padding-right: 25px;}
         main{padding-left: 25px; padding-right: 25px}
-        .banner{padding: var(--padding-borders);}
-        .col-left {float: left; width: 45%; padding-left, padding-right: 20px; padding-bottom: 50px;}
-        .col-right {float: right; width: 45%; padding-left, padding-right: 20px; padding-bottom: 50px;}
-        footer{font-family: var(--font-body); background-color: var(--footer-bg); padding-top: 50px;}
+        .banner{padding-bottom: 40px;}
+        .col-left {float: left; width: 45%; padding-left: 20px; padding-right: 20px;}
+        .col-center {float: center; width: 10%}
+        .col-right {float: right; width: 45%; padding-left: 20px; padding-right: 20px;}
+        footer{
+            font-family: var(--font-body); 
+            background-color: var(--footer-bg);
+        }
     </style>
 </head>
 <body>
@@ -55,14 +60,15 @@
         <hr>
         <div class="banner">
             <div class="col-left"><x-markdown2html src="about.md" id="about"></div>
+            <div class="col-center"></div>
             <div class="col-right"><x-markdown2html src="contact.md" id="contact"></div>
         </div>
     </main>
-    <Footer>
+    <footer>
         <p>Emily Chau © 2023</p></p>
         <p>designed with ♡ on treaty 4 & treaty 14 land</p>
         <p>I want to acknowledge the privilege I have to live and study on the territories traditionally occupied and cared for by Indigenous Peoples across Turtle Island. Laurier's campuses are located on the traditional territories of the Anishinabeg, Haudenosaunee and Attawandaron peoples. I am deeply grateful for the opportunity that I have to learn and grow on this land, which continues to be cared for by the First Peoples of Canada.</p>
-    </Footer>
+    </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
                 integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
