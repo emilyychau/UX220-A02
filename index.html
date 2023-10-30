@@ -7,22 +7,20 @@
     <link href="https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Open+Sans:wght@300&display=swap" rel="stylesheet">   
     <style>
         :root{ 
-            --nav-bg: #53687E;
             --main-background: #C2B2B4;
             --main-foreground: rgb(228, 240, 250);
-            --footer-bg:#53687E;
             --pane-padding: 5px 42px;
             --font-title: 'Hammersmith One', 'sans-serif';
             --font-body: 'Open Sans', 'sans-serif';
             --padding-borders: 25px;
-            --padding-head: 200px;}
-        nav{font-family: var(--font-body); background-color: var(--footer-bg);}
+            --padding-head: 50px;}
+        nav{font-family: var(--font-body);}
         h1{font-family: var(--font-title); text-align: center;}
         body{background-color: var(--main-background); foreground-color: var(--main-foreground); font-family: var(--font-body); padding-left, padding-right: 25px;}
         main{padding-left: 25px; padding-right: 25px}
         .col-left {float: left; width: 45%; padding-left, padding-right: 20px; padding-bottom: 50px;}
         .col-right {float: right; width: 45%; padding-left, padding-right: 20px; padding-bottom: 50px;}
-        footer{font-family: var(--font-body); background-color: var(--footer-bg); padding: var(--padding-head);}
+        footer{font-family: var(--font-body); background-color: var(--footer-bg); }
     </style>
 </head>
 <body>
@@ -53,14 +51,18 @@
         <x-markdown2html src="items/experience_3.md" id="section_3"></x-markdown2html>
         <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html>
         <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
-        crossorigin="anonymous"></script>
-    <script src="https://custom-element.pages.dev/custom-element.js" crossorigin="anonymous"></script>
     <div class="col-left"><x-markdown2html src="about.md" id="about"></div>
-        <div class="col-right"><x-markdown2html src="contact.md" id="contact"></div>  
+        <div class="col-right"><x-markdown2html src="contact.md" id="contact"></div> 
     </main>
-<Footer><x-markdown2html src="footer.md" id="footer"></x-markdown2html></Footer>
+    <Footer>
+        <p>Emily Chau © 2023</p></p>
+        <p>designed with ♡ on treaty 4 & treaty 14 land</p>
+        <p>I want to acknowledge the privilege I have to live and study on the territories traditionally occupied and cared for by Indigenous Peoples across Turtle Island. Laurier's campuses are located on the traditional territories of the Anishinabeg, Haudenosaunee and Attawandaron peoples. I am deeply grateful for the opportunity that I have to learn and grow on this land, which continues to be cared for by the First Peoples of Canada.</p>
+    </Footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+                integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+                crossorigin="anonymous"></script>
+            <script src="https://custom-element.pages.dev/custom-element.js" crossorigin="anonymous"></script> 
 </body>
 </html>
