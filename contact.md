@@ -1,11 +1,12 @@
 # Contact
 
 Before you leave, don't forget to take my (digital) card!
-<div class="button">
-<a href="mailto:chau6054@mylaurier.ca"><span>Email</span></a>
-<a href="https://teams.microsoft.com"><span>MS Teams</span></a>
-<a href="https://www.linkedin.com/in/emilyy-chau"><span>LinkedIn</span></a>
-</div>
+> : Buttons
+> > :Button label=MS Teams, url=https://teams.microsoft.com
+> 
+> > :Button label=LinkedIn, url=https://www.linkedin.com/in/emilyy-chau
+> 
+> > :Button label=Email, url=mailto:chau6054@mylaurier.ca
 
 I usually respond within 48 hours, thank you for messaging.
 
