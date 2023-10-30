@@ -5,3 +5,4 @@ Before you leave, don't forget to take my (digital) card!
 > [LinkedIn](https://www.linkedin.com/in/emilyy-chau "Button to connect on LinkedIn")
 
 I usually respond within 48 hours, thank you for messaging.
+---
