@@ -14,7 +14,8 @@
             --font-title: 'Hammersmith One', 'sans-serif';
             --font-body: 'Open Sans', 'sans-serif';
             --padding-borders: 25px;
-            --padding-head: 50px;}
+            --padding-head: 50px;
+        }
         nav{font-family: var(--font-body);}
         h1{font-family: var(--font-title); text-align: center;}
         body{background-color: var(--main-background); foreground-color: var(--main-foreground); font-family: var(--font-body); padding-left, padding-right: 25px;}
@@ -54,12 +55,19 @@
         <h1>Assignment 2</h1><hr>
     </header>
     <main>
-        <x-markdown2html src="items/experience_1.md" id="section_1"></x-markdown2html>
-        <x-markdown2html src="items/experience_2.md" id="section_2"></x-markdown2html>
-        <x-markdown2html src="items/experience_3.md" id="section_3"></x-markdown2html>
-        <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html>
-        <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html>
-        <hr>
+        <div class="experiences">
+            <x-markdown2html src="items/experience_1.md" id="section_1"></x-markdown2html>
+            <x-markdown2html src="items/experience_2.md" id="section_2"></x-markdown2html>
+            <x-markdown2html src="items/experience_3.md" id="section_3"></x-markdown2html>
+            <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html>
+            <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html>
+            <hr>
+        </div>
+        <div class="banner">
+            <div class="col-left"><x-markdown2html src="about.md" id="about"></div>
+            <div class="col-center"></div>
+            <div class="col-right"><x-markdown2html src="contact.md" id="contact"></div>
+        </div>
     </main>
     <footer>
         <p>Emily Chau © 2023</p></p>
