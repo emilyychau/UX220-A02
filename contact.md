@@ -1,4 +1,3 @@
----
 # Contact
 Before you leave, don't forget to take my (digital) card!
 > [Email](mailto:chau6054@mylaurier.ca "Button to email")
