@@ -9,6 +9,7 @@ npm start
 ```
 
 or surf to [https://diy-pwa.dev/~/gh/rhildred/UX220Assignment2](https://diy-pwa.dev/~/gh/rhildred/UX220Assignment2). 
+[https://diy-pwa.dev/~/gh/emilyychau/UX220-A02](https://diy-pwa.dev/~/gh/emilyychau/UX220-A02). 
 
 ```bash
 npm install
