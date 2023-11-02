@@ -17,8 +17,10 @@
             --font-bold-body: 'Open Sans', 'sans-serif';
             --padding-left-n-right: 25px;
             --padding-head: 50px;
+            --center-align: center;
         }
-        #navbar_navbar-expand-md_navbar-dark_bg-purple{
+        #navbar_navbar-expand-md_navbar-dark_bg-purple
+        {
             font-family: var(--font-bold-body);
             color: var(--main-foreground);
         }
@@ -26,7 +28,6 @@
             background-color: var(--nav-bg);
             font-family: var(--font-body);
             color: var(--main-foreground);
-            color: rgb(228, 240, 250);
         }
         li{
             font-family: var(--font-body);
@@ -35,11 +36,11 @@
         h1{
             padding: var(--padding-head);
             font-family: var(--font-title); 
-            text-align: center;
+            text-align: var(--center);
         }
         h2{
             font-family: var(--font-title); 
-            text-align: center;
+            text-align: var(--center);
         }
         body{
             background-color: var(--main-background);
@@ -49,13 +50,23 @@
             padding-left, padding-right: var(--padding-left-n-right);
         }
         .banner{padding-bottom: 250px;}
-        .col-left {float: left; width: 45%; padding-left: 20px; padding-right: 20px;}
-        .col-center {float: center; width: 10%;}
-        .col-right {float: right; width: 45%; padding-left: 20px; padding-right: 20px;}
-
+        .col-left {
+            float: left; 
+            width: 45%; 
+            padding-left, padding-right: var(--padding-left-n-right);
+        }
+        .col-center {
+            float: center; 
+            width: 10%;
+        }
+        .col-right {
+            float: right; 
+            width: 45%; 
+            padding-left, padding-right: var(--padding-left-n-right);
+        }
         footer{
             color: var(--main-foreground);
-            text-align: center;
+            text-align: var(--center);
             padding: var(--padding-head);
             font-family: var(--font-body); 
             background-color: var(--footer-bg);
