@@ -15,7 +15,7 @@
             --font-title: 'Hammersmith One', 'sans-serif';
             --font-body: 'Open Sans', 'sans-serif';
             --font-bold-body: 'Open Sans', 'sans-serif';
-            --padding-borders: 25px;
+            --padding-left-n-right: 25px;
             --padding-head: 50px;
         }
         #navbar_navbar-expand-md_navbar-dark_bg-purple{
@@ -42,13 +42,11 @@
             text-align: center;
         }
         body{
-            background-color: var(--main-background); 
-            foreground-color: var(--main-foreground); 
+            background-color: var(--main-background);
             font-family: var(--font-body);
         }
         main{
-            padding-left: 25px; 
-            padding-right: 25px;
+            padding-left, padding-right: var(--padding-left-n-right);
         }
         .banner{padding-bottom: 250px;}
         .col-left {float: left; width: 45%; padding-left: 20px; padding-right: 20px;}
