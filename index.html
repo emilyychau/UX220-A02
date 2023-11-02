@@ -21,7 +21,8 @@
             --button-color: #3A4454;
             --button-radius: 5px;
             --button-padding: 5px; 
-            --button-border: 2px, solid; 
+            --button-thick-border: 2px; 
+            --button-size-border: solid; 
         }
         #navbar_navbar-expand-md_navbar-dark_bg-purple
         {
@@ -38,7 +39,9 @@
             color: var(--main-foreground);
         }
         span{
-            border: var(--button-border), var(--button-color);
+            border: var(--button-size-border);
+            border: var(--button-thick-border);
+            border: var(--button-color);
             border-radius: var(--button-radius);
             padding: var(--button-padding);
         }
